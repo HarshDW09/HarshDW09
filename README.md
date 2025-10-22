@@ -1,28 +1,29 @@
+<div align="center">
+
 ### Hi, I'm Harsh Dwivedi
 
 <a href='https://postimg.cc/N2vGWpph' target='_blank'>
   <img src='https://i.postimg.cc/PJPLv7Dq/IMG-6613.jpg' alt='Harsh Dwivedi' width='180' style="border-radius:10px;">
 </a>
 
-I am a Data Scientist and Software Engineer, focused on building intelligent systems and transforming data into measurable impact.  
-Graduate in Computer Science (Data Science major) from Deakin University, Melbourne.  
+<p>
+I am a Data Scientist and Software Engineer, focused on building intelligent systems and transforming data into measurable impact.<br>
+Graduate in Computer Science (Data Science major) from Deakin University, Melbourne.<br>
 I work on scalable data platforms, machine learning, and cloud automation.
+</p>
 
-- Currently building and refining data-driven pipelines and AI-enabled applications.  
-- Exploring ML system design, data infrastructure, and cloud-native architectures.  
-- Open to collaboration in machine learning, data engineering, and open-source analytics.  
-- Reach me at: [harshinfinity09@gmail.com](mailto:harshinfinity09@gmail.com)  
-- Website: [https://harshd09.netlify.app](https://harshd09.netlify.app)  
-- LinkedIn: [linkedin.com/in/harshdwivedi050](https://linkedin.com/in/harshdwivedi050)  
-- GitHub: [github.com/HarshDW09](https://github.com/HarshDW09)
-
+<p align="center">
+<a href="mailto:harshinfinity09@gmail.com">harshinfinity09@gmail.com</a> | 
+<a href="https://harshd09.netlify.app">Portfolio</a> | 
+<a href="https://linkedin.com/in/harshdwivedi050">LinkedIn</a> | 
+<a href="https://github.com/HarshDW09">GitHub</a>
+</p>
 
 ---
 
 #### Technical Focus
 
-<!-- Tech Stack Card -->
-<div style="display:flex;flex-wrap:wrap;gap:7px;line-height:0;margin:0 0 10px 0;">
+<div style="display:flex;justify-content:center;flex-wrap:wrap;gap:7px;line-height:0;margin:0 auto 10px auto;">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
@@ -48,31 +49,38 @@ I work on scalable data platforms, machine learning, and cloud automation.
   <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" />
 </div>
-<!-- End Tech Stack Card -->
 
 ---
+
 #### Certifications and Leadership
 
-- Microsoft Azure Data Fundamentals (DP-900)  
-- AWS AI Practitioner (AIF-C01)  
-- eMentor, In2science (2025–Present) — Mentoring students in mathematics and software development  
-- Committee Member, Deakin College (2022–2023)
+Microsoft Azure Data Fundamentals (DP-900)  
+AWS AI Practitioner (AIF-C01)  
+eMentor, In2science — Mentoring students in mathematics and software development  
+Committee Member, Deakin College — Academic and career events  
 
 ---
 
 #### GitHub Stats
 
-![HarshDW09's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshDW09&show_icons=true&title_color=3BAFDA&text_color=E0E0E0&icon_color=3BAFDA&bg_color=0D1117&hide_border=true)  
-![HarshDW09's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshDW09&background=0D1117&ring=3BAFDA&fire=3BAFDA&currStreakNum=E0E0E0&sideNums=E0E0E0&dates=E0E0E0&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=HarshDW09&show_icons=true&title_color=3BAFDA&text_color=E0E0E0&icon_color=3BAFDA&bg_color=0D1117&hide_border=true" alt="GitHub stats"/><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshDW09&background=0D1117&ring=3BAFDA&fire=3BAFDA&currStreakNum=E0E0E0&sideNums=E0E0E0&dates=E0E0E0&hide_border=true" alt="GitHub streak"/>
 
 ---
 
 #### Quote
-
-> “Pure mathematics is, in its way, the poetry of logical ideas.”  
-> — Albert Einstein
+<blockquote>“Pure mathematics is, in its way, the poetry of logical ideas.” — Albert Einstein</blockquote>
 
 ---
+
+#### My Intro Video
+<a href="https://www.canva.com/design/DAG2edwXKgo/FtKPf5vUF7sGb1t30cp_JA/watch?utm_content=DAG2edwXKgo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks" target="_blank">
+  <img src="https://i.postimg.cc/gJymqPT6/play-preview.png" alt="Watch Intro Video" width="300">
+</a>  
+*(Click to watch — hosted on Canva)*
+
+</div>
+
 
 <a href="https://harshd09.netlify.app">
   <table align="right">
