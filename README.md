@@ -7,7 +7,7 @@
 </a>
 
 <p>
-I am a Data Scientist and Software Engineer, focused on building intelligent systems and transforming data into measurable impact.<br>
+I am a Software Engineer, focused on building intelligent systems and transforming data into measurable impact.<br>
 Graduate in Computer Science (Data Science major) from Deakin University, Melbourne.<br>
 I work on scalable data platforms, machine learning, and cloud automation.
 </p>
@@ -66,21 +66,15 @@ Committee Member, Deakin College — Academic and career events
 <img src="https://github-readme-stats.vercel.app/api?username=HarshDW09&show_icons=true&title_color=3BAFDA&text_color=E0E0E0&icon_color=3BAFDA&bg_color=0D1117&hide_border=true" alt="GitHub stats"/><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshDW09&background=0D1117&ring=3BAFDA&fire=3BAFDA&currStreakNum=E0E0E0&sideNums=E0E0E0&dates=E0E0E0&hide_border=true" alt="GitHub streak"/>
 
----
-
-#### Quote
-<blockquote>“Pure mathematics is, in its way, the poetry of logical ideas.” — Albert Einstein</blockquote>
-
----
-
-#### My Intro Video
-<a href="https://www.canva.com/design/DAG2edwXKgo/FtKPf5vUF7sGb1t30cp_JA/watch?utm_content=DAG2edwXKgo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks" target="_blank">
-  <img src="https://i.postimg.cc/gJymqPT6/play-preview.png" alt="Watch Intro Video" width="300">
-</a>  
-*(Click to watch — hosted on Canva)*
 
 </div>
 
+#### Quote
+
+> “Pure mathematics is, in its way, the poetry of logical ideas.”  
+> — Albert Einstein
+
+---
 
 <a href="https://harshd09.netlify.app">
   <table align="right">
@@ -91,4 +85,3 @@ Committee Member, Deakin College — Academic and career events
       </tr>
   </table>
 </a>
-
