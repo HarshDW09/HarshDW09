@@ -1,79 +1,92 @@
-Harsh Dwivedi
+### Hi, I'm Harsh Dwivedi
 
-Data Scientist | Software Engineer | Turning Data into Impact
+<a href='https://postimg.cc/N2vGWpph' target='_blank'>
+  <img src='https://i.postimg.cc/PJPLv7Dq/IMG-6613.jpg' alt='Harsh Dwivedi' width='180' style="border-radius:10px;">
+</a>
 
-About Me
+I am a Data Scientist and Software Engineer, focused on building intelligent systems and transforming data into measurable impact.  
+Graduate in Computer Science (Data Science major) from Deakin University, Melbourne.  
+I work on scalable data platforms, machine learning, and cloud automation.
 
-Graduate in Computer Science (Data Science major) from Deakin University, Melbourne.
-Focused on predictive modeling, data engineering, and intelligent systems.
-Experienced in building scalable ML-driven platforms integrating Python, AWS, and modern web frameworks.
-Driven by systems thinking and measurable outcomes.
+- Currently building and refining data-driven pipelines and AI-enabled applications.  
+- Exploring ML system design, data infrastructure, and cloud-native architectures.  
+- Open to collaboration in machine learning, data engineering, and open-source analytics.  
+- Reach me at: [harshinfinity09@gmail.com](mailto:harshinfinity09@gmail.com)  
+- Website: [https://harshd09.netlify.app](https://harshd09.netlify.app)  
+- LinkedIn: [linkedin.com/in/harshdwivedi050](https://linkedin.com/in/harshdwivedi050)  
+- GitHub: [github.com/HarshDW09](https://github.com/HarshDW09)
 
-📍 Based in Australia
-📧 harshinfinity09@gmail.com
+---
 
-🔗 LinkedIn
- | GitHub
+#### Technical Focus
 
-Technical Stack
+**Languages:** Python, C++, JavaScript, TypeScript, SQL  
+**Frameworks:** Flask, FastAPI, React, Node.js  
+**ML & Data:** TensorFlow, scikit-learn, Pandas, NumPy  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Cloud & Tools:** AWS (Lambda, EC2, S3, DynamoDB), Docker, Git, Tableau  
 
-Languages
-Python · C++ · JavaScript · TypeScript · SQL
+---
 
-Frameworks & Tools
-React · Node.js · Flask · FastAPI · TensorFlow · scikit-learn
+#### Experience Overview
 
-Data & Cloud
-AWS (Lambda, EC2, S3, DynamoDB) · Docker · PostgreSQL · MongoDB · Tableau
+**Data Science Team Member — Chameleon (Capstone Project)**  
+_Deakin University, 2024–2025_  
+- Designed environmental monitoring platform processing over 50GB of data daily.  
+- Built TensorFlow-based geospatial noise detection with 40% faster analysis.  
 
-Experience
+**Project Intern — Deakin FreelanceHub (2025)**  
+- Automated demographic analytics for 128,000+ residents using Python and Tableau.  
+- Reduced manual analysis time by 60%.  
 
-Data Science Team Member – Chameleon (Capstone Project)
-Deakin University | 2024–2025
+**Data Analyst Intern — Infinitude Logistics (2023–2024)**  
+- Developed ETL pipelines cutting data load time from 3 hours to 25 minutes.  
+- Built Tableau dashboards with automated alerts, reducing shipment delays by 15%.
 
-Built environmental data pipeline processing 50GB+ sensor data daily with automated anomaly detection.
+---
 
-Developed TensorFlow-based geospatial noise analysis for 50+ Melbourne CBD locations.
+#### Featured Projects
 
-Mentored junior developers and created internal documentation standards adopted department-wide.
+**Log Analytics Platform**  
+_Python • AWS Lambda • DynamoDB_  
+- Serverless log processor handling 100K+ entries per day with event-driven triggers and sub-second latency.
 
-Project Intern – Deakin FreelanceHub
-2025
+**SaveDollar — Personal Finance App**  
+_React • TypeScript • Flask • PostgreSQL_  
+- Full-stack fintech tool predicting user spending via LSTM neural networks with 85% accuracy.
 
-Designed Python/Tableau workflow analysing 128,000+ resident records across six regions.
+---
 
-Reduced manual reporting time by 60% using automated ETL pipelines.
+#### Certifications and Leadership
 
-Data Analyst Intern – Infinitude Logistics
-2023–2024
+- Microsoft Azure Data Fundamentals (DP-900)  
+- AWS AI Practitioner (AIF-C01)  
+- eMentor, In2science (2025–Present) — Mentoring students in mathematics and software development  
+- Committee Member, Deakin College (2022–2023)
 
-Automated ETL system in Python/SQL cutting data processing time from 3 h to 25 min.
+---
 
-Built Tableau dashboards with KPI tracking and delay alerts reducing incidents by 15%.
+#### GitHub Stats
 
-Projects
+![HarshDW09's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshDW09&show_icons=true&title_color=3BAFDA&text_color=E0E0E0&icon_color=3BAFDA&bg_color=0D1117&hide_border=true)  
+![HarshDW09's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshDW09&background=0D1117&ring=3BAFDA&fire=3BAFDA&currStreakNum=E0E0E0&sideNums=E0E0E0&dates=E0E0E0&hide_border=true)
 
-Log Analytics Platform
-Python · AWS Lambda · DynamoDB
+---
 
-Serverless log system handling 100K+ entries/day with <1 s latency.
+#### Quote
 
-Event-driven pipeline for automated anomaly detection and real-time analytics.
+> “Pure mathematics is, in its way, the poetry of logical ideas.”  
+> — Albert Einstein
 
-SaveDollar – Personal Finance App
-React · TypeScript · Flask · PostgreSQL
+---
 
-Full-stack fintech platform serving 50+ users with JWT auth and LSTM forecasting (85 % accuracy).
+<a href="https://harshd09.netlify.app">
+  <table align="right">
+      <tr>
+          <td>
+            👉 &nbsp;&nbsp;Visit my website
+          </td>
+      </tr>
+  </table>
+</a>
 
-Certifications & Leadership
-
-Microsoft Azure Data Fundamentals (DP-900)
-
-AWS AI Practitioner (AIF-C01)
-
-eMentor, In2science (2025–Present) — Mentoring high-school students in software development
-
-Deakin College Committee Member (2022–2023) — Organised academic and career events
-
-GitHub Metrics
-<a href="https://github.com/HarshDW09"> <img src="https://github-readme-stats.vercel.app/api?username=HarshDW09&show_icons=true&title_color=3BAFDA&text_color=E0E0E0&icon_color=3BAFDA&bg_color=0D1117&hide_border=true"/> </a> <a href="https://github.com/HarshDW09"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshDW09&background=0D1117&ring=3BAFDA&fire=3BAFDA&currStreakNum=E0E0E0&sideNums=E0E0E0&dates=E0E0E0&hide_border=true"/> </a>
