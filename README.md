@@ -15,9 +15,16 @@ I work on scalable data platforms, machine learning, and cloud automation.
 - Website: [https://harshd09.netlify.app](https://harshd09.netlify.app)  
 - LinkedIn: [linkedin.com/in/harshdwivedi050](https://linkedin.com/in/harshdwivedi050)  
 - GitHub: [github.com/HarshDW09](https://github.com/HarshDW09)
+
+
+---
+
+#### Technical Focus
+
 <!-- Tech Stack Card -->
 <div style="display:flex;flex-wrap:wrap;gap:7px;line-height:0;margin:0 0 10px 0;">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
@@ -35,54 +42,15 @@ I work on scalable data platforms, machine learning, and cloud automation.
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white" />
   <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white" />
   <img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-aws&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-EC6813?logo=tableau&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" />
 </div>
 <!-- End Tech Stack Card -->
 
 ---
-
-#### Technical Focus
-
-**Languages:** Python, C++, JavaScript, TypeScript, SQL  
-**Frameworks:** Flask, FastAPI, React, Node.js  
-**ML & Data:** TensorFlow, scikit-learn, Pandas, NumPy  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Cloud & Tools:** AWS (Lambda, EC2, S3, DynamoDB), Docker, Git, Tableau  
-
----
-
-#### Experience Overview
-
-**Data Science Team Member — Chameleon (Capstone Project)**  
-_Deakin University, 2024–2025_  
-- Designed environmental monitoring platform processing over 50GB of data daily.  
-- Built TensorFlow-based geospatial noise detection with 40% faster analysis.  
-
-**Project Intern — Deakin FreelanceHub (2025)**  
-- Automated demographic analytics for 128,000+ residents using Python and Tableau.  
-- Reduced manual analysis time by 60%.  
-
-**Data Analyst Intern — Infinitude Logistics (2023–2024)**  
-- Developed ETL pipelines cutting data load time from 3 hours to 25 minutes.  
-- Built Tableau dashboards with automated alerts, reducing shipment delays by 15%.
-
----
-
-#### Featured Projects
-
-**Log Analytics Platform**  
-_Python • AWS Lambda • DynamoDB_  
-- Serverless log processor handling 100K+ entries per day with event-driven triggers and sub-second latency.
-
-**SaveDollar — Personal Finance App**  
-_React • TypeScript • Flask • PostgreSQL_  
-- Full-stack fintech tool predicting user spending via LSTM neural networks with 85% accuracy.
-
----
-
 #### Certifications and Leadership
 
 - Microsoft Azure Data Fundamentals (DP-900)  
